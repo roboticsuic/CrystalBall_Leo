@@ -72,7 +72,7 @@ void loop() {
         lcd.print("ask again please");
         break;
         case 11:
-        lcd.print("poor baby...";
+        lcd.print("poor baby...");
         break;
       }
     }
