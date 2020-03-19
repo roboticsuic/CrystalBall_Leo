@@ -16,7 +16,7 @@ Materials:
 5.	1 x 220-ohm resistor (for the LCD backlight).
 6.	About 20 jumper wires.
 
-![TestImage4](https://github.com/roboticsuic/CrystalBall_Leo/tree/master/Schemes/SCHEMEWITHSWITCH.PNG])
+![SchemeOfTheCircuit](https://github.com/roboticsuic/CrystalBall_Leo/blob/master/Schemes/SCHEMEWITHSWITCH.PNG)
 
 
 Note: In my case I used a normal switch (instead of a tilt switch)in the schemes due to the fact that I could not get a tilt sensor.
